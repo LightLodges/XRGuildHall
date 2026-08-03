@@ -1,8 +1,8 @@
 # 🏛️ XR Guild Hall
 
-**A community-built, browser-native home for the XR Guild — an immersive hall you can walk into, learn in, and help build.**
+**A community-built, browser-native home for the XR Guild as an immersive hall you can walk into, learn in, create events and help build.**
 
-The Hall is a twelve-sided space where the architecture *is* the wayfinding: twelve pillars, each a doorway into one of the Guild's programs; windows that honor the people we celebrate; walls that tell the field's story. Stand in the center, turn around, and the room is a living directory of what the Guild does — and everything in it is made by volunteers.
+The Hall is a twelve-sided central space where the architecture *is* the wayfinding: twelve pillars, each a doorway into one of the Guild's programs; windows that honor the people we celebrate; walls that tell the field's story. Stand in the center, turn around, and the room is a living directory of what the Guild does — and everything in it is made by volunteers. There is a library and meeting room adjacent to the main hall.
 
 > **This is a volunteer, community-driven project.** No studio owns it. It's built in the open by people who care about XR and about the Guild, one pillar and one garden bench at a time. If that's you, [there's a task with your name on it](#-get-involved).
 
@@ -12,9 +12,9 @@ The Hall is a twelve-sided space where the architecture *is* the wayfinding: twe
 
 We made two commitments that shape everything else:
 
-**Browser-native, so anyone can walk in.** The Hall runs on **WebXR** — no app store, no install, no gatekeeper. Open a link on a headset, a laptop, or a phone and you're inside. Volunteers can build and test with nothing but a browser.
+**Browser-native and open so anyone can walk in.** The Hall runs on **WebXR** with no app store, no install, no gatekeeper. Open a link on a headset, a laptop, or a phone and you're inside. Volunteers can build and test with nothing but a browser.
 
-**Portable, so it isn't trapped anywhere.** The Hall is built on open standards so it can live in more than one place: our own site today, and platforms like **[Viverse](https://www.viverse.com/)** and **RP1's open-metaverse browser** as they open up. We don't want a Hall that only exists on one company's servers.
+**Portable; it isn't trapped anywhere.** The Hall is built on open standards so it can live in more than one place: our own site today, and platforms like **[Viverse](https://www.viverse.com/)** and **RP1's open-metaverse browser** as they open up. We don't want a Hall that only exists on one company's servers. We want the Guild Hall to proliferate and help build community everywhere.
 
 ---
 
@@ -41,7 +41,7 @@ Two of these are deliberately **still open decisions** — the engine and the mu
 
 ---
 
-## Under the hood — and how *you* can edit it
+## Under the hood and how *you* can edit it
 
 The whole point of the data-driven design is that **you don't have to understand the engine to contribute.** Work happens at three levels, and most contributions live at the top two:
 
